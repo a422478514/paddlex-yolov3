@@ -1,0 +1,25 @@
+<annotation>
+        <folder>JPEGImages</folder>
+        <filename>006173401024695.jpg</filename>
+        <source>
+                <database>Unknown</database>
+        </source>
+        <size>
+                <width>632</width>
+                <height>1040</height>
+                <depth>3</depth>
+        </size>
+        <segmented>0</segmented>
+        <object>
+                <name>非金属打火机</name>
+                <pose>Unspecified</pose>
+                <truncated>0</truncated>
+                <difficult>0</difficult>
+                <bndbox>
+                        <xmin>534</xmin>
+                        <ymin>537</ymin>
+                        <xmax>568</xmax>
+                        <ymax>625</ymax>
+                </bndbox>
+        </object>
+</annotation>
